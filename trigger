@@ -1,3 +1,1 @@
-test
-blyad
-jajaja
+LAUNCH_JOHNCENA
